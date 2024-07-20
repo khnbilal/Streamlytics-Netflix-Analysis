@@ -1,9 +1,9 @@
-# Streamlytics-Netflix-Analysis
+# Streamlytics: Netflix Analysis
 
-# Overview
+# *Overview*
 This project leverages Amazon QuickSight to visualize and analyze Netflix data, providing insightful dashboards and interactive visualizations. By following a structured workflow, we connect our dataset stored in an S3 bucket to QuickSight, create a variety of graphs and charts, and publish a comprehensive dashboard.
 
-# Game Plan
+# *Game Plan*
 🪣 Upload Dataset: Store the Netflix dataset in an Amazon S3 bucket.
 
 🆕 QuickSight Account: Create an account on Amazon QuickSight to get started.
@@ -14,7 +14,7 @@ This project leverages Amazon QuickSight to visualize and analyze Netflix data, 
 
 🏆 Publish Dashboard: Publish a detailed dashboard full of insights from your Netflix dataset.
 
-# Project Features
+# *Project Features*
 Data Storage: Secure storage of the Netflix dataset in Amazon S3.
 
 Data Connectivity: Seamless integration of S3 data with Amazon QuickSight.
